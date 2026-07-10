@@ -12,22 +12,12 @@ This project is a web-based sentiment analysis application developed as part of 
 - Interactive visualization
 - Download prediction results as CSV
 
-project/
-│
-├── app.py
-├── assets/
-├── data/
-├── utils/
-├── views/
-├── requirements.txt
-└── README.md
-
 ## Installation
 
 Clone repository
 
 ```bash
-git clone https://github.com/USERNAME/REPOSITORY.git
+git clone https://github.com/BryantDecoder/vat-12-sentiment-analysis-on-x
 ```
 
 Install dependencies
