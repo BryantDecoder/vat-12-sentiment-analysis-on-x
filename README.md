@@ -48,7 +48,7 @@ streamlit run app.py
 
 ## Live Demo
 
-https://vat12-sentiment.streamlit.app
+https://vat-12-sentiment-analysis.streamlit.app
 
 ## Model
 
